@@ -7,7 +7,7 @@ export default function Home() {
     <BasicLayout>
       <div>
 
-        안녕하십니까 형님들.
+        안녕하십니까 형님들. 깃 테스트 입니다 형님.
       </div>
     </BasicLayout>
 
